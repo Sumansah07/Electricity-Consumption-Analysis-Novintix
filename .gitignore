@@ -1,0 +1,5 @@
+household_power_consumption.txt
+*.png
+__pycache__/
+*.pyc
+.DS_Store
